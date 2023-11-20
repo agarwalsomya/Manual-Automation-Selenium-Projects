@@ -13,7 +13,7 @@ I would like to take you through the differences in PDFs as part of the test del
 3. Test Report after Execution
 4. Cross Browser Test Report on all the Windows Browser.Testing Projects
 
-Web Autonmation Testing Projects
+Web Automation Testing Projects
 
 PDFS consists of Test Scripts using Selenium for particular Modules of Live HR Portal, Travel Website using Google Doc using Core JAVA as a Scripting Language and Selenium as an Automation tool to identify 
 locators on Web.
