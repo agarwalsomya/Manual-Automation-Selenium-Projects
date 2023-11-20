@@ -8,10 +8,10 @@ As am passionate about enhancing the software, playing around with it, and analy
 
 I would like to take you through the differences in PDFs as part of the test deliverables.
 
-Defect Lists
-Test Case Design Document
-Test Report after Execution
-Cross Browser Test Report on all the Windows Browser.Testing Projects
+1. Defect Lists
+2. Test Case Design Document
+3. Test Report after Execution
+4. Cross Browser Test Report on all the Windows Browser.Testing Projects
 
 Web Autonmation Testing Projects
 
