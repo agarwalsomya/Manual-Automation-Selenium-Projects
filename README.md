@@ -18,7 +18,7 @@ Testing Type
 
 Testing Deliverables
 
-1. Defect Lists
+1. Defect Lists/Report
 2. Test Case Design Document
 3. Test Report after Execution
 4. Cross Browser Test Report on all the Windows Browser
@@ -27,5 +27,6 @@ Testing Deliverables
 
 Automation Testing Projects
 
-1. Mobile Automation using Appium
-2. Web Automation using Selenium
+1. Mobile Automation using Appium with Core JAVA
+2. Web Automation using Selenium with Core JAVA
+3. API Automation using RestAssured with Core JAVA
